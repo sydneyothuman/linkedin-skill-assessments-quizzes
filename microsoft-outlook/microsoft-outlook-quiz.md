@@ -152,7 +152,7 @@ C. Read receipts are expensive, so some organizations turn them off.
 
 - [ ] Sort the messages by size then filter by Has: Attachments
 - [ ] Sort the messages by sender
-- [ ] Sort the messages by Has: Attachments and then filter by Is: Large
+- [x] Sort the messages by Has: Attachments and then filter by Is: Large
 - [ ] Sort the messages by Has: Attachments and then by size
 
 #### 22. What is not a built-in search filter for message folder?
@@ -172,7 +172,7 @@ C. Read receipts are expensive, so some organizations turn them off.
 #### 24. What is the fastest way to find a message sent by Bonnie Bradford that includes an attachment?
 
 - [ ] Search based on sender then filter by Has Attachments
-- [ ] Search for "has:attachments" and then filter by Bonnie Bradford
+- [x] Search for "has:attachments" and then filter by Bonnie Bradford
 - [ ] All of these answers
 - [ ] Enter "Bonnie Bradford attachment" in the search box
 
@@ -187,7 +187,7 @@ C. Read receipts are expensive, so some organizations turn them off.
 
 - [ ] Search the autocomplete library, select the incorrect suggestion, and then click Delete
 - [ ] Close Outlook, reboot your computer, and restart Outlook
-- [ ] Wait until the suggestion appears again, then highlight it and press the Delete key
+- [x] Wait until the suggestion appears again, then highlight it and press the Delete key
 - [ ] Delete the corresponding contact
 
 #### 27. What is the key difference between an appointment and a meeting?
@@ -216,7 +216,7 @@ C. Read receipts are expensive, so some organizations turn them off.
 - [ ] Your colleague's name is highlighted in the message
 - [ ] The colleague is automatically added to the To line
 - [ ] @ appears next to the message in your colleague's Inbox
-- [ ] @ appears next to the email in your Sent items folder (Sent folder in Outlook for Mac)
+- [x] @ appears next to the email in your Sent items folder (Sent folder in Outlook for Mac)
 
 #### 31. You have received an email messages with detailed notes that you need to analyze before responding, so you want to save it as a task. What is the best way to create a new task that includes the notes in the body of the task?
 
@@ -229,7 +229,7 @@ C. Read receipts are expensive, so some organizations turn them off.
 
 - [ ] Asking your supervisor to prioritize a list of tasks
 - [ ] Sending customers a three-question survey about a recent service experience
-- [ ] Asking your colleagues to choose their favorite lunch spot from a list
+- [x] Asking your colleagues to choose their favorite lunch spot from a list
 - [ ] All of these answers
 
 #### 33. You created a meeting for next Tuesday at 2 PM, and several invitees have accepted. How do you change the meeting so it will begin at 1 PM and last for one hour?
@@ -248,20 +248,20 @@ C. Some people have already accepted, so you must cancel this meeting and create
 #### 34. What permission allows your delegates to read, create, change, and delete items that they create, but not items that you created?
 
 - [ ] Reader
-- [ ] Author
+- [x] Author
 - [ ] Reviewer
 - [ ] Editor
 
 #### 35. Why might you create an additional contacts folder?
 
-- [ ] To store contacts to share with colleagues
+- [x] To store contacts to share with colleagues
 - [ ] To avoid exceeding 500 contacts per folder limit
 - [ ] To make it faster to search for your contacts
 - [ ] All of these answers
 
 #### 36. What is a key difference between flagging a message for follow up and creating a task from them?
 
-- [ ] All of these answers
+- [x] All of these answers
 - [ ] A task can be assigned to another person while a flagged item cannot be delegated
 - [ ] You can set a reminder for a task but not for a flagged item
 - [ ] The flagged message appears only in the Inbox folder; the task appears in the To-Do Bar and task list
@@ -285,11 +285,11 @@ C. Some people have already accepted, so you must cancel this meeting and create
 - [ ] To keep track of personal events in a work setting
 - [ ] To use a shared calendar with colleagues
 - [ ] To isolate meetings and important dates for a project team
-- [ ] To have a different view of your calendar
+- [x] To have a different view of your calendar
 
 #### 40. Under what conditions can you successfully recall a message?
 
-- [ ] Only when the recipient is also using Outlook
+- [x] Only when the recipient is also using Outlook
 - [ ] Only if the email is plain text without attachments
 - [ ] If the email si still in your outbox
 - [ ] If the email was sent within the past 24 hours
@@ -322,7 +322,7 @@ D. Because you cannot create a search folder for a subfolder
 - [ ] A and B
 - [ ] B and D
 
-#### 44. Each \_\_\_ can be assigned two default signatures for \_\_\_ .
+#### 44. Each \_\_\_ can be assigned two default signatures for \_\_\_ 
 
 - [ ] None of these answers
 - [x] email account; new messages and replies or forwards
@@ -331,7 +331,7 @@ D. Because you cannot create a search folder for a subfolder
 
 #### 45. While using Focused Inbox, you notice that Outlook sometimes puts important messages from a specific customer on th Another tab. How do you fix this for future messages?
 
-- [ ] Right-click a message that was incorrectly organized and click Move to Focused.
+- [x] Right-click a message that was incorrectly organized and click Move to Focused.
 - [ ] Right-click a message that was incorrectly organized and click Always Move to Focused.
 - [ ] Close the Outlook application and relaunch.
 - [ ] Locate that customer in the People Hub and select the Focused check box.
@@ -339,7 +339,7 @@ D. Because you cannot create a search folder for a subfolder
 #### 46. In the Outlook interface shown below, why is the Show as Conversations option grayed out?
 
 - [ ] The Inbox folder is sorted by size.
-- [ ] The People peek is open and Sally Kerner's card has focus.
+- [x] The People peek is open and Sally Kerner's card has focus.
 - [ ] Focused Inbox is being used.
 - [ ] The People peek is open and has focus.
 
